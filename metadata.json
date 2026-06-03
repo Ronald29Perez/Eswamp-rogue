@@ -1,0 +1,6 @@
+{
+  "name": "Roguelike 2D",
+  "description": "Un juego roguelike en 2D con Jetpack Compose. El mapa es una cuadrícula de casillas ocultas que se revelan al caminar, con combate por turnos, inventario y tienda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
